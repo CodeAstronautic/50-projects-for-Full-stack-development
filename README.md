@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c7ff9e6d-7c10-4d1e-ae57-0444c2ccb40f)# 50-projects-for-Full-stack-development
+# 50-projects-for-Full-stack-development
 
 AI-Powered Image Caption Generator
 
